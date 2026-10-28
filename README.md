@@ -170,9 +170,3 @@ Seria tentador desabilitar o teste ou alterar sua expectativa para permitir o de
 ### 5.4. Maior aprendizado do plantão
 
 A principal lição é que decisões tomadas sob pressão precisam preservar as regras de negócio e a integridade dos dados. Ignorar exceções, construir SQL por concatenação, aceitar objetos nulos e desabilitar testes pode parecer mais rápido no momento, mas transfere o risco para os clientes e aumenta a dificuldade de manutenção. Uma correção tecnicamente responsável deve tratar a causa-raiz, incluir validações ou testes quando necessários e deixar explícito o custo de cada escolha.
-
----
-
-## 6. Observação sobre a continuação do exercício
-
-O material disponibilizado para esta versão do README contém as rodadas R1 a R6 e os eventos relâmpago descritos acima. A sétima rodada não foi incluída porque seu título, evidência, alternativas e consequências não constam no conteúdo recebido. O registro final deverá ser complementado caso o professor disponibilize essa parte do cenário.
